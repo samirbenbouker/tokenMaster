@@ -66,10 +66,7 @@ The `TokenMaster` smart contract is based on the ERC721 standard for non-fungibl
 
 To use this system, the `TokenMaster` contract must be deployed on the Ethereum blockchain, and it must be interacted with using an Ethereum-compatible wallet such as MetaMask.
 
-
-![Captura desde 2024-04-25 00-30-23](https://github.com/samirbenbouker/tokenMaster/assets/57891254/f0e98d15-e17f-473e-ab27-96f68a68196a)
-![Captura desde 2024-04-25 00-20-04](https://github.com/samirbenbouker/tokenMaster/assets/57891254/145eab73-6371-4b82-96cd-88f38f39fdfa)
-![Captura desde 2024-04-25 00-18-43](https://github.com/samirbenbouker/tokenMaster/assets/57891254/fbd95ffe-efb5-485a-9db3-2d45abc2a322)
-![Captura desde 2024-04-25 00-17-45](https://github.com/samirbenbouker/tokenMaster/assets/57891254/b2ff0f8e-0e92-4a15-afce-12239e6cf62b)
 ![Captura desde 2024-04-25 00-17-18](https://github.com/samirbenbouker/tokenMaster/assets/57891254/84d918a2-807f-4efe-9870-14347f64e43d)
+![Captura desde 2024-04-25 00-17-45](https://github.com/samirbenbouker/tokenMaster/assets/57891254/b2ff0f8e-0e92-4a15-afce-12239e6cf62b)
+![Captura desde 2024-04-25 00-18-43](https://github.com/samirbenbouker/tokenMaster/assets/57891254/fbd95ffe-efb5-485a-9db3-2d45abc2a322)
 
